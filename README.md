@@ -1,6 +1,6 @@
 
 V1 
-- w/ "5days Api" Open Weather api - weather for 5 days each 3 hours. 
+- w/ "5d" Open Weather api - weather for 5 days each 3 hours. 
 - One page
 ressource : https://www.youtube.com/channel/UCpT4xkEfC_BqnsSUkTQPfUg
 
