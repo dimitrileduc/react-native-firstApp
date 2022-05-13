@@ -1,7 +1,7 @@
 
 V1 
 - w/ "5d" Open Weather api - weather for 5 days each 3 hours. 
-- One page
+- One page -
 ressource : https://www.youtube.com/channel/UCpT4xkEfC_BqnsSUkTQPfUg
 
 V2 : https://snack.expo.dev/@dimitrileduc/868223
